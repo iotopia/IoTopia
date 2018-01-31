@@ -1,6 +1,6 @@
 const int voltageLDR[] = { 5 };
 const int resistorLDR[] = { 10 };
-unsigned long lastReadLDR = 0;
+unsigned long lastReadLDR = 0; 123
 const int pinLDR[] = { A4 };
 const long baudRate = 115200;
 const char* strBoard = "UnoI_Board_4";
